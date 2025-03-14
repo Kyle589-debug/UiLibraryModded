@@ -635,7 +635,7 @@ do
                 Size = Vector2.new(WindowOutlineBorder.Size.X - 2, WindowOutlineBorder.Size.Y - 2),
                 Position = Vector2.new(WindowOutlineBorder.Position.X + 1, WindowOutlineBorder.Position.Y + 1),
                 Thickness = 0,
-                Transparency = 1,
+                Transparency = 0,
                 Color = Library.Theme.DarkContrast,
                 Visible = false,
                 Filled = false
